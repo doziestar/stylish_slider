@@ -1,3 +1,4 @@
-## 0.0.1
+## 0.1.0
 
-* TODO: Describe initial release.
+- Initial release of the stylish_slider package.
+- Added basic slider functionality.
