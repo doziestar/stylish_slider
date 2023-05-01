@@ -1,0 +1,22 @@
+name: stylish_slider
+description: A highly optimized, dependency-free, and customizable slider for Flutter.
+version: 0.1.0
+homepage: https://github.com/doziestar/stylish_slider
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: io.placio.stylish_slider
+        pluginClass: StylishSliderPlugin
